@@ -1,2 +1,2 @@
 
- https://evgen31rus.github.io/my-app/src/
+ https://evgen31rus.github.io/my-app

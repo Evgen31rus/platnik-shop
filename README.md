@@ -1,2 +1,2 @@
 
- https://evgen31rus.github.io/my-app
+ https://evgen31rus.github.io/platnik-shop/

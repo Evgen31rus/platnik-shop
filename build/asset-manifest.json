@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/platnik-shop/static/css/main.2cbb5702.css",
+    "main.js": "/platnik-shop/static/js/main.2c06e5c9.js",
+    "static/js/787.d4aba7ab.chunk.js": "/platnik-shop/static/js/787.d4aba7ab.chunk.js",
+    "static/media/bigSale.png": "/platnik-shop/static/media/bigSale.7f2557d3f7657b0e46ee.png",
+    "index.html": "/platnik-shop/index.html",
+    "main.2cbb5702.css.map": "/platnik-shop/static/css/main.2cbb5702.css.map",
+    "main.2c06e5c9.js.map": "/platnik-shop/static/js/main.2c06e5c9.js.map",
+    "787.d4aba7ab.chunk.js.map": "/platnik-shop/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cbb5702.css",
+    "static/js/main.2c06e5c9.js"
+  ]
+}
